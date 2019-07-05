@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00a13964-51ed-41ed-bcf7-3e046f98e880" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/microservicecloud/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloud/microservicecloud-api/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8001/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-80/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7001/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7002/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7003/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7004/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7001/src/main/java/cliff/ford/EurekaServer7001_App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="67">
+              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#339#340#0" expanded="true" />
+                <element signature="e#410#411#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8001/src/main/java/cliff/ford/DeptProvider8001_App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-80/src/main/java/cliff/ford/DeptConsumer80_App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#406#407#0" expanded="true" />
+                <element signature="e#475#476#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-80/src/main/java/cliff/ford/controller/DeptController_Consumer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="704">
+              <caret line="32" column="50" selection-start-line="32" selection-start-column="50" selection-end-line="32" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1208#1209#0" expanded="true" />
+                <element signature="e#1298#1299#0" expanded="true" />
+                <element signature="e#1382#1383#0" expanded="true" />
+                <element signature="e#1479#1480#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-80/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8001/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/microservicecloud/microserevicecloud-provider-dept-8002/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/microservicecloud/microservicecloud-api/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud/microservicecloud-api/src/main/java/Entity/Dept.java" />
+        <option value="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8001/src/main/resources/mybatis/mybatis.cfg.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8001/src/main/resources/sql.text" />
+        <option value="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8001/src/main/java/dao/DeptDao.java" />
+        <option value="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8001/src/main/java/service/impl/DeptServiceImpl.java" />
+        <option value="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8001/src/main/java/service/DeptService.java" />
+        <option value="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8001/src/main/java/controller/DeptController.java" />
+        <option value="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8001/src/main/java/DeptProvider8001_App.java" />
+        <option value="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8001/src/main/java/cliff/ford/service/impl/DeptServiceImpl.java" />
+        <option value="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8001/src/main/java/cliff/ford/service/DeptService.java" />
+        <option value="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8001/src/main/java/cliff/ford/dao/DeptDao.java" />
+        <option value="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8001/src/main/resources/mybatis/mapper/DeptMapper.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7001/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7001/src/main/java/cliff/ford/EurekaServer7001_App.java" />
+        <option value="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8001/src/main/java/cliff/ford/controller/DeptController.java" />
+        <option value="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8001/src/main/java/cliff/ford/DeptProvider8001_App.java" />
+        <option value="$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7002/src/main/java/ford/EurekaServer7002_App.java" />
+        <option value="$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7003/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8001/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7001/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7004/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7004/src/main/java/cliff/ford/EurekaServer7001_App.java" />
+        <option value="$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7004/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservicecloud/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7002/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7002/microservicecloudeureka7002.iml" />
+        <option value="$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7002/src/main/java/cliff/ford/EurekaServer7002_App.java" />
+        <option value="$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7002/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7003/src/main/java/cliff/ford/EurekaServer7003_App.java" />
+        <option value="$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7003/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7003/microservicecloudeureka7003.iml" />
+        <option value="$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8001/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-80/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-80/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-80/src/main/java/cliff/ford/cfgbean/ConfigBean.java" />
+        <option value="$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-80/src/main/java/cliff/ford/controller/DeptController_Consumer.java" />
+        <option value="$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-80/src/main/java/cliff/ford/DeptConsumer80_App.java" />
+        <option value="$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-80/src/main/resources/application.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7003/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2876557" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.YAML" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cliff.ford" />
+      <recent name="ford" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\01_代码\idea环境\SpringCloud\microservicecloud\microservicecloud-eureka-7003\src\main\resources" />
+      <recent name="D:\01_代码\idea环境\SpringCloud\microservicecloud\microservicecloud-eureka-7002\src\main\resources" />
+      <recent name="D:\01_代码\idea环境\SpringCloud\microservicecloud\microservicecloud-eureka-7004\src\main\resources" />
+      <recent name="D:\01_代码\idea环境\SpringCloud\microservicecloud" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.DeptConsumer80_App">
+    <configuration name="DeptConsumer80_App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cliff.ford.DeptConsumer80_App" />
+      <module name="microservicecloudconsumerdept80" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cliff.ford.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeptProvider8001_App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cliff.ford.DeptProvider8001_App" />
+      <module name="microservicecloudproviderdept8001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cliff.ford.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServer7001_App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cliff.ford.EurekaServer7001_App" />
+      <module name="microservicecloudeureka7001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cliff.ford.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServer7002_App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cliff.ford.EurekaServer7002_App" />
+      <module name="microservicecloudeureka7002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cliff.ford.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServer7003_App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cliff.ford.EurekaServer7003_App" />
+      <module name="microservicecloudeureka7003" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cliff.ford.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DeptProvider8001_App" />
+        <item itemvalue="Application.DeptConsumer80_App" />
+        <item itemvalue="Application.EurekaServer7001_App" />
+        <item itemvalue="Application.EurekaServer7003_App" />
+        <item itemvalue="Application.EurekaServer7002_App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00a13964-51ed-41ed-bcf7-3e046f98e880" name="Default Changelist" comment="" />
+      <created>1562164369296</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562164369296</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="JRebel" order="3" side_tool="true" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49922118" weight="0.5829228" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39963832" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Tail" order="7" />
+      <window_info anchor="bottom" id="Problems" order="8" />
+      <window_info anchor="bottom" id="JRebel Console" order="9" sideWeight="0.5007788" side_tool="true" weight="0.42200327" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="JRebel Executor" order="13" sideWeight="0.49922118" weight="0.4958949" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32894737" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="RestServices" order="3" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.32943925" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/microservicecloud/microservicecloud-api/src/main/java/entity/Dept.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud/microservicecloud-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud/microservicecloud.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.1.2.RELEASE/spring-boot-dependencies-2.1.2.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="429" column="12" selection-start-line="429" selection-start-column="12" selection-end-line="429" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8001/src/main/resources/mybatis/mybatis.cfg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="15" lean-forward="true" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/2.0.0/mybatis-spring-2.0.0.jar!/org/mybatis/spring/annotation/MapperScan.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="26" column="25" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8001/src/main/resources/sql.text">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8001/src/main/java/cliff/ford/dao/DeptDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8001/src/main/java/cliff/ford/service/DeptService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8001/src/main/java/cliff/ford/service/impl/DeptServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8001/src/main/resources/mybatis/mapper/DeptMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7002/src/main/java/cliff/ford/EurekaServer7001_App.java" />
+    <entry file="file://$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7004/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7004/src/main/resources/application.yml" />
+    <entry file="file://$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7004/src/main/java/cliff/ford/EurekaServer7004_App.java" />
+    <entry file="file://$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7003/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="80" column="20" selection-start-line="80" selection-start-column="20" selection-end-line="80" selection-end-column="20" />
+          <folding>
+            <element signature="n#dependencyManagement#0;n#project#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7001/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="28" column="19" selection-start-line="13" selection-start-column="4" selection-end-line="28" selection-end-column="19" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7002/.project">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7001/.classpath">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7001/microservicecloudeureka7001.eml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7002/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7001/microservicecloudeureka7001.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="62" selection-start-line="4" selection-start-column="62" selection-end-line="4" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7002/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7003/microservicecloudeureka7003.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="134" column="9" selection-start-line="134" selection-start-column="9" selection-end-line="134" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7002/microservicecloudeureka7002.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="118" column="22" selection-end-line="134" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7002/src/main/java/cliff/ford/EurekaServer7002_App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7003/src/main/java/cliff/ford/EurekaServer7003_App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#339#340#0" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7003/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8001/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="887">
+          <caret line="75" column="8" selection-start-line="75" selection-start-column="8" selection-end-line="75" selection-end-column="8" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7001/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-80/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="861">
+          <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-80/src/main/java/cliff/ford/cfgbean/ConfigBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8001/src/main/java/cliff/ford/controller/DeptController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7001/src/main/java/cliff/ford/EurekaServer7001_App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8001/src/main/java/cliff/ford/DeptProvider8001_App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-80/src/main/java/cliff/ford/controller/DeptController_Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="32" column="50" selection-start-line="32" selection-start-column="50" selection-end-line="32" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1208#1209#0" expanded="true" />
+            <element signature="e#1298#1299#0" expanded="true" />
+            <element signature="e#1382#1383#0" expanded="true" />
+            <element signature="e#1479#1480#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-80/src/main/java/cliff/ford/DeptConsumer80_App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#475#476#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-80/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8001/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloud/microserevicecloud-provider-dept-8002/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>microservicecloudeureka7002</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2876557" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

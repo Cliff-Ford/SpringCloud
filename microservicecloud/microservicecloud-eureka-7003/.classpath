@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="D:/01_代码/idea环境/SpringCloud/out/production/microservicecloudeureka7003"/>
+</classpath>
