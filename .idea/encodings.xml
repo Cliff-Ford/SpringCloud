@@ -4,10 +4,12 @@
     <file url="file://$PROJECT_DIR$/microservicecloud" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservicecloud/microservicecloud-api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-80" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloud/microservicecloud-consumer-dept-feign-80" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7001" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7002" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservicecloud/microservicecloud-eureka-7003" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8001" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-8002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloud/microservicecloud-provider-dept-hystrix-8001" charset="UTF-8" />
   </component>
 </project>
