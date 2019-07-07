@@ -34,3 +34,9 @@ info:
   company.name: cliff.ford
   build.artifactId: $project.artfactId$
   build.version: ${project.version}$
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: ["hystrix.stream"]

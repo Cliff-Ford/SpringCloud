@@ -29,8 +29,8 @@ public class DeptController {
     @HystrixCommand(fallbackMethod = "wrongId")
     public Dept get(@PathVariable("id") Long id){
         Dept dept = deptService.get(id);
-        if(dept == null){
-            throw new RuntimeException();
+        if(id == null || dept == null){
+            throw  new RuntimeException();
         }
         return dept;
     }

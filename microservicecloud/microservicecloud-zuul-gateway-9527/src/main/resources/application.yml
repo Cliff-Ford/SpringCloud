@@ -1,0 +1,27 @@
+server:
+  port: 9527
+
+spring:
+  application:
+    name: microservice-zuul-gateway
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost1:7001/eureka
+  instance:
+    instance-id: zuul-gateway
+    prefer-ip-address: true
+
+info:
+  app.name: cliff.ford
+  company.name: cliff.ford
+  build.artifactId: ${project.artifactId}
+  build.version: ${project.version}
+
+zuul:
+  ignored-services: microservicecloud-dept
+  routes:
+    mydept.serviceId: microservicecloud-dept
+    mydept.path: /mydept/**
+

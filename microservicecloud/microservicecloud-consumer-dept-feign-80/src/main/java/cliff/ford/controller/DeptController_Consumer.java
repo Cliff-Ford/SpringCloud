@@ -26,6 +26,7 @@ public class DeptController_Consumer {
         return service.get(id);
     }
 
+
     @RequestMapping(value = "/consumer/dept/list")
     public List<Dept> list(){
         System.out.println("方法进来了");
